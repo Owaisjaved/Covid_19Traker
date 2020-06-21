@@ -1,0 +1,29 @@
+
+    @media (max-width: 770px){
+        .card{
+            margin:2% 0 !important
+        }
+        
+    }
+    .container{
+        margin: 50px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+.card1{
+    border-top: 10px solid   crimson;
+    border-bottom:10px solid crimson;
+   
+}
+.card2{
+    border-top: 10px solid  chartreuse;
+    border-bottom:10px solid chartreuse;
+    
+}
+.card3{
+    border-top: 10px solid   springgreen;
+    border-bottom:10px solid springgreen;
+    
+}
